@@ -16,7 +16,10 @@
                             <p class="section-text">Credem puternic în noile tehnologii puse în slujba răspunsului post-seism. Dincolo de soluțiile privind programele accelerate de consolidări și campaniile publice de informare, hotărâtoare pentru mii de vieți va fi intervenția din primele minute după un cutremur major.</p>
                         </div>
                         <div class="col-4-xlarge col-12-medium col-12-smallm">
-                            <p class="section-text"><a href="http://registruutilaje.rerise.org" target="_blank">Registrul Digital al Utilajelor</a>, Stațiile WiFi de Salvare, Sistemul Emergency Response Drone Mapping, Programul Național de Voluntariat la Seism și Senzorizarea Clădirilor Vulnerabile sunt doar câteva dintre soluțiile identificate de Re:Rise și permise acum de avansul tehnologic.</p>
+                            <p class="section-text">În prezent, Re:Rise lucrează la implementarea unui set de 5 soluții în vederea reducerii riscului seismic: <a href="http://registruutilaje.rerise.org" target="_blank">Registrul Digital al Utilajelor</a> pune la dispoziția forțelor de intervenție informații despre flota utilă a companiilor private, Sistemul de Mapare Rapidă cu Drone va oferi autorităților o imagine rapidă și completă a stării de fapt post-seism, WiFi Mesh-ul Salvatorului va asigura comunicarea directă și independentă între salvator și victime, Programul Național de Pregătire și Voluntariat la Seism asigură instruirea populației astfel încât să poată contribui într-o mai mare măsură la efortul de intervenție, iar Senzorizarea 3D a Clădirilor Vulnerabile va furniza informații rapide salvatorilor cu privire la dimensiunea pagubelor suferite la seism. </p>
+                        </div>
+                        <div class="col-4-xlarge col-12-medium col-12-smallm">
+                            <p class="section-text">Acestea sunt doar câteva dintre soluțiile identificate de Re:Rise și permise acum de avansul tehnologic - soluții care ne sunt, la nivel de societate, la îndemână și pe care avem obligația să le implementăm.</p>
                         </div>
                     </div>
                 </div>
